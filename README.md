@@ -17,7 +17,7 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 ```
 
-#### Step 1: Data Cleaning 1  
+#### Step 1: Data Cleaning 
 #### Step 2: Univariate Analysis
 #### Step 3: Segemented Univariate Analysis
 #### Step 4: Bivaraiate/Multivariate Analysis
@@ -25,7 +25,7 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ### Contributors
-- Rajesh Rao
+- Rajesh R
 - Likhith D Gowda
 
 
