@@ -24,6 +24,24 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 #### Step 5: Results   
 
 
+## Technologies Used
+- Python - version 3.12.0
+- Numpy - version 1.26.1
+- Pandas - version 2.1.2
+- Plotly - version 5.18.0
+- Jupyter - version 7.0.6
+- Git - version 2.42.1
+
+
+## Acknowledgements
+
+- Google.com
+- Stackoverflow.com
+- plotly.com
+- Youtube.com
+- upgrad.com
+
+
 ### Contributors
 - Rajesh R
 - Likhith D Gowda
